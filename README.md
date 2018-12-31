@@ -1,2 +1,2 @@
-# brandingweb
-personal website 
+# branding-web
+my first personal website 
